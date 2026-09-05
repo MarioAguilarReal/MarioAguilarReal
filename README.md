@@ -1,3 +1,4 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2F80ED,100:9B51E0&height=150&section=header&text=Mario%20Aguilar%20Real&fontSize=40&fontColor=ffffff" />
 <h1 align="center">Hi 👋, I'm Mario Aguilar Real</h1>
 <h3 align="center">Software Engineer | Full-Stack Developer | AI Engineering Enthusiast</h3>
 
